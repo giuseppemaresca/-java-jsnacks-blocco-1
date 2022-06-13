@@ -25,5 +25,7 @@ public class JSnack1
 		   i++;
 	    }
 		System.out.println("La somma e' " +somma);
+		scanner.close();
 	}
+	 
 }

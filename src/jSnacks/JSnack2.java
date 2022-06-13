@@ -15,5 +15,6 @@ public class JSnack2 {
 			numero=numero+1;
 			System.out.println("Il tuo numero e'  " +numero);
 		}
+		scanner.close();
 	}
 }
